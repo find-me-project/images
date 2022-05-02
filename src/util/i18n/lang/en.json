@@ -1,0 +1,11 @@
+{
+	"INTERNAL_ERROR_INVALID_ENV": "Internal error. Invalid environment file",
+	"SIGN_IN_REQUIRED": "Forbidden. You must be logged in to perform this action",
+	"ID_INVALID": "Identifier is not a valid",
+	"ID_REQUIRED": "Identifier is required",
+	"UPDATED": "Updated",
+	"SAVED": "Saved",
+	"ADDED": "Added",
+	"REMOVED": "Removed",
+	"NOT_FOUND": "Not found"
+}
